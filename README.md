@@ -17,9 +17,10 @@ https://github.com/nosir/cleave.js/ <br>
 https://github.com/nosir/cleave.js/blob/master/doc/options.md/ <br>
 
 ## :information_source: Informações Úteis
-Blog => https://vidafullstack.com.br/ <br>
 Curso => https://vidafullstack.com.br/curso-de-angular/ <br>
-Ebook => https://vidafullstack.com.br/jornada-front-end/ <nr>
+Ebook => https://vidafullstack.com.br/jornada-front-end/ <br>
+Blog => https://vidafullstack.com.br/ <br>
+Postagem Blog => https://vidafullstack.com.br/javascript/mascara-cpf-cnpj-javascipt-cleavejs/
 
 ---
 
