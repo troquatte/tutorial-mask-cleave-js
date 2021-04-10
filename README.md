@@ -1,18 +1,16 @@
 <h1 align="center">
-  <img src="https://vidafullstack.com.br/wp-content/uploads/2021/04/cleavejs.png" alt="" width="150">
-  <br>
     Tutorial Cleave Js
 </h1>
 
 ## :custard: Descrição
 
-Estudo simples de como usar mask de uma forma simples e prática com Javascript. ( CPF e CNPJ com cleave js )
+Estudo de como usar mask de uma forma simples e prática com Javascript. ( CPF e CNPJ com cleave js )
 
 ## :information_source: Como usar?
 
 Acesse o arquivo index.js no reposiótorio e veja os exemplos ou assista o vídeo.
 
-## :information_source: Documentação
+## :information_source: Documentação da ferramenta
 
 https://nosir.github.io/cleave.js/ <br>
 https://github.com/nosir/cleave.js/ <br>
