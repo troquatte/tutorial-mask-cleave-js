@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cleave Js</title>
+</head>
+
+<body>
+
+  <label>
+    Cpf:
+    <!-- XXX.XXX.XXX-XX -->
+    <input type="text" id="cpf">
+  </label>
+
+  <br>
+  <br>
+
+  <label>
+    Cnpj:
+    <!-- XX.XXX.XXX/XXXX-XX -->
+    <input type="text" id="cnpj">
+  </label>
+
+  <script src="https://cdn.jsdelivr.net/npm/cleave.js@1.6.0/dist/cleave.min.js"></script>
+
+  <script>
+    new Cleave('#cpf', {
+      blocks: [3, 3, 3, 2],
+      delimiters: ['.', '.', '-'],
+      numericOnly: true
+    });
+
+    new Cleave('#cnpj', {
+      blocks: [2, 3, 3, 4, 2],
+      delimiters: ['.', '.', '/', '-'],
+      numericOnly: true
+    });
+  </script>
+</body>
+
+</html>
